@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.47"
+  }
+}
