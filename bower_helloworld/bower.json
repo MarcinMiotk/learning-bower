@@ -1,0 +1,23 @@
+{
+  "name": "bower_helloworld",
+  "description": "Eksperymentowanie",
+  "main": "mami",
+  "keywords": [
+    "nauka"
+  ],
+  "authors": [
+    "Marcin Miotk"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
